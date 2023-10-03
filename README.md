@@ -3,6 +3,17 @@
 <h3 align="center">Passionate about inventing new things</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wixmel&label=Profile%20views&color=0e75b6&style=flat" alt="wixmel" /> </p>
+<h3 align="left">About me:</h3>
+<Pre>
+ Hello, World! I am an Electrical Engineer 
+ I like embedded systems, robotics, 
+ web app & mob app development, 
+ and PC software development.
+ So I decided to learn everything I liked.
+ and this GitHub is proof of my learning. 
+ I adding everything I learn.
+</Pre>
+
 
 <h3 align="left">currently learning:</h3>
 <p align="left">
