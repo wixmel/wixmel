@@ -1,3 +1,5 @@
+<a href="https://ibb.co/WG5mhLK"><img align="right" alt="Coding" width="1100" src="https://i.ibb.co/tQKVG9C/1500x500.webp">
+
 <h1 align="center">Hi 👋, I'm Indranil Mandal</h1>
 <h3 align="center">Passionate about inventing new things</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
